@@ -1,0 +1,37 @@
+Blocks:
+
+Blocks are anonymous functions in Ruby. They are chunks of code enclosed within {} or do...end.
+They can be passed to methods and yield control to the calling method.
+Blocks cannot be assigned to variables or passed around independently.
+Example:
+
+ruby
+Copy code
+3.times { puts "Hello" }
+In this example, { puts "Hello" } is a block that's passed to the times method.
+
+Procs:
+
+Procs are blocks of code that have been bound to a set of local variables.
+They can be stored in variables and passed around like objects.
+They are invoked using the call method.
+Example:
+
+ruby
+Copy code
+my_proc = Proc.new { |x| puts x * 2 }
+my_proc.call(3)
+This will output 6. my_proc is a Proc object that doubles its argument.
+
+Lambdas:
+
+Lambdas are similar to Procs but with some differences in behavior.
+They enforce strict argument count and return behavior.
+They are created using the lambda keyword or -> notation.
+Example:
+
+ruby
+Copy code
+my_lambda = lambda { |x| puts x * 2 }
+my_lambda.call(3)
+This will also output 6. Lambdas behave similarly to Procs, but they enforce strict argument count and return behavior.
