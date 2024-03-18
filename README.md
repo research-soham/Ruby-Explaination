@@ -36,3 +36,5 @@ To begin your journey with Ruby, follow these steps:
 1) [Block, Proc, and Lambda Explanation](https://github.com/research-soham/Ruby-Explaination/blob/main/block_proc_lambda.txt)
 
 2) [Monkey Patching](https://github.com/research-soham/Ruby-Explaination/blob/main/monkey_patching.rb)
+
+3) [Duck Typing](https://github.com/research-soham/Ruby-Explaination/blob/main/duck_typing.rb)
