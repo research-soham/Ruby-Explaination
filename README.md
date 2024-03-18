@@ -28,3 +28,8 @@ To begin your journey with Ruby, follow these steps:
 
    ```ruby
    puts "Hello, World!"
+
+
+
+## Main Topics of ruby
+`[Block, Proc, and Lambda Explanation](https://github.com/research-soham/Ruby-Explaination/blob/main/block_proc_lambda.txt)`
