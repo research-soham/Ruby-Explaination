@@ -34,3 +34,5 @@ To begin your journey with Ruby, follow these steps:
 ## Main Topics of ruby
 
 1) [Block, Proc, and Lambda Explanation](https://github.com/research-soham/Ruby-Explaination/blob/main/block_proc_lambda.txt)
+
+2) [Monkey Patching](https://github.com/research-soham/Ruby-Explaination/blob/main/monkey_patching.rb)
