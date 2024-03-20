@@ -42,3 +42,5 @@ To begin your journey with Ruby, follow these steps:
 4) [Include, Extend, Prepend](https://github.com/research-soham/Ruby-Explaination/blob/main/prepend_extend_include.rb)
 
 5) [Stubbing and Mocking](https://github.com/research-soham/Ruby-Explaination/blob/main/stubbing_mocking.txt)
+
+6) [Optimistic and Passimistic Locking](https://github.com/research-soham/Ruby-Explaination/blob/main/optimistic_passimistic_locking.rb)
