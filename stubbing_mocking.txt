@@ -1,0 +1,9 @@
+Mocking:
+Explanation: Mocking involves creating simulated objects that imitate the behavior of real objects. It's particularly useful for testing interactions between different parts of a system, especially when those parts are not fully implemented or are external dependencies like APIs, databases, or services.
+Example: In a large-scale web application, I've used mocking extensively to simulate responses from external APIs during unit testing. This allowed us to test our code's behavior without relying on the actual API responses, ensuring more reliable and isolated tests.
+
+Stubbing:
+Explanation: Stubbing is a technique where specific parts of the code are replaced with predefined behavior or responses. It's handy for isolating the code under test and focusing on particular scenarios, especially when dealing with complex dependencies or external systems.
+Example: In a financial application, we often stubbed out database calls during testing to return predefined data sets. This helped us test various edge cases and failure scenarios without affecting the actual database or relying on live data during test runs.
+
+Both mocking and stubbing are indispensable tools in a developer's testing arsenal, allowing us to write thorough and reliable tests that cover different aspects of our codebase without introducing unnecessary complexities or dependencies.
