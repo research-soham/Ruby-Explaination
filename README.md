@@ -40,3 +40,5 @@ To begin your journey with Ruby, follow these steps:
 3) [Duck Typing](https://github.com/research-soham/Ruby-Explaination/blob/main/duck_typing.rb)
 
 4) [Include, Extend, Prepend](https://github.com/research-soham/Ruby-Explaination/blob/main/prepend_extend_include.rb)
+
+5) [Stubbing and Mocking](https://github.com/research-soham/Ruby-Explaination/blob/main/stubbing_mocking.txt)
