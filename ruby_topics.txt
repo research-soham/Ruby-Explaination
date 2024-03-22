@@ -1,0 +1,48 @@
+Ruby Topics
+
+Block, proc, lambda 
+Include, extend, prepend 
+duck typing
+Yield keyword
+Symbol
+Variables
+Metaprogramming
+Self keyword
+Modules
+Garbage collection
+Attr_accessor
+Memoization
+Super keyword
+Exception handling
+Map, each, select, pluck
+Spaceship operator
+Closures
+Tap method
+Law of Demeter
+shallow copy and a deep copy
+Method missing
+Dynamic methods
+Const_missing
+concept of refinements
+differences between fibers and threads
+Singleton
+Enumerator
+memory management
+DRY (Don't Repeat Yourself)
+exception handling
+super' keyword
+load and require
+How to bypass constructor
+difference between observers and callbacks
+Destructive methods
+Plugins and gems
+Dynamic finders
+splat operator
+sweeper in Rails
+Mocking and stubbing
+Nginx and ngrok
+optimistic and presmetic locking
+2-tier to a 3-tier config
+Multi-tenant
+classic and zeitwerk Modes
+
