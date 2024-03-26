@@ -1,0 +1,10 @@
+Metaprogramming refers to the ability of a programming language to treat programs as their own data, allowing them to modify or generate new code at runtime. In simpler terms, metaprogramming is writing code that writes or manipulates other code.
+
+Ruby is a programming language known for its strong support for metaprogramming. Here's a brief explanation of metaprogramming in Ruby along with an example:
+
+Metaprogramming Concepts in Ruby:
+Dynamic Methods: Ruby allows you to define methods dynamically at runtime using the define_method or method_missing techniques.
+
+Open Classes: In Ruby, classes are open, meaning you can add or modify methods and attributes to existing classes, even those defined in the standard library.
+
+Reflection: Ruby provides reflection capabilities that allow you to examine and modify the structure of classes and objects during runtime.
