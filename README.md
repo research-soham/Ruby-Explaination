@@ -46,3 +46,5 @@ To begin your journey with Ruby, follow these steps:
 6) [Optimistic and Passimistic Locking](https://github.com/research-soham/Ruby-Explaination/blob/main/optimistic_passimistic_locking.rb)
 
 7) [Spaceship Operator](https://github.com/research-soham/Ruby-Explaination/blob/main/spaceship_operator.rb)
+
+8) [Metaprogramming](https://github.com/research-soham/Ruby-Explaination/blob/main/metaprogramming.txt)
