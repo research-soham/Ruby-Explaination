@@ -48,3 +48,5 @@ To begin your journey with Ruby, follow these steps:
 7) [Spaceship Operator](https://github.com/research-soham/Ruby-Explaination/blob/main/spaceship_operator.rb)
 
 8) [Metaprogramming](https://github.com/research-soham/Ruby-Explaination/blob/main/metaprogramming.txt)
+
+9) [Memoization](https://github.com/research-soham/Ruby-Explaination/blob/main/Memoization.rb)
