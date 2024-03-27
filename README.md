@@ -50,3 +50,5 @@ To begin your journey with Ruby, follow these steps:
 8) [Metaprogramming](https://github.com/research-soham/Ruby-Explaination/blob/main/metaprogramming.txt)
 
 9) [Memoization](https://github.com/research-soham/Ruby-Explaination/blob/main/Memoization.rb)
+
+10) [Closure in ruby](https://github.com/research-soham/Ruby-Explaination/blob/main/Closure.rb)
