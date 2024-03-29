@@ -52,3 +52,5 @@ To begin your journey with Ruby, follow these steps:
 9) [Memoization](https://github.com/research-soham/Ruby-Explaination/blob/main/Memoization.rb)
 
 10) [Closure in ruby](https://github.com/research-soham/Ruby-Explaination/blob/main/Closure.rb)
+
+11) [Enumerator in ruby](https://github.com/research-soham/Ruby-Explaination/blob/main/Enumerator.rb)
