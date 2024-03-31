@@ -56,3 +56,5 @@ To begin your journey with Ruby, follow these steps:
 11) [Enumerator in ruby](https://github.com/research-soham/Ruby-Explaination/blob/main/Enumerator.rb)
 
 12) [Singleton in ruby](https://github.com/research-soham/Ruby-Explaination/blob/main/Singleton.rb)
+
+13) [Load and Require](https://github.com/research-soham/Ruby-Explaination/blob/main/load_and_require.rb)
