@@ -1,0 +1,10 @@
+In Ruby, fibers and threads are both concurrency mechanisms, but they have some key differences.
+
+Execution Control:
+
+Threads: Threads are managed by the operating system's scheduler. They run concurrently and can be preemptively paused and resumed by the scheduler.
+Fibers: Fibers are managed by the programmer. They are cooperative; that is, they yield control back to the caller voluntarily.
+Parallelism:
+
+Threads: Threads can run in parallel if the underlying hardware supports it, making them suitable for CPU-bound tasks.
+Fibers: Fibers are not inherently parallel; they provide a way to manage asynchronous I/O and can be used to implement cooperative multitasking.
