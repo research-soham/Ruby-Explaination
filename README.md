@@ -62,3 +62,5 @@ To begin your journey with Ruby, follow these steps:
 14) [Fibre and Threads](https://github.com/research-soham/Ruby-Explaination/blob/main/fibers_and_threads.txt) [Example](https://github.com/research-soham/Ruby-Explaination/blob/main/fibers_and_threads.rb)
 
 15) [Optimic locking](https://github.com/research-soham/Ruby-Explaination/blob/main/optimistic_locking.rb)
+
+16) [Zeitwerk](https://github.com/research-soham/Ruby-Explaination/blob/main/zeitwerk.txt)
