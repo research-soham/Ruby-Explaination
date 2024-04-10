@@ -64,3 +64,5 @@ To begin your journey with Ruby, follow these steps:
 15) [Optimic locking](https://github.com/research-soham/Ruby-Explaination/blob/main/optimistic_locking.rb)
 
 16) [Zeitwerk](https://github.com/research-soham/Ruby-Explaination/blob/main/zeitwerk.txt)
+
+17) [Action Cable](https://github.com/research-soham/Ruby-Explaination/blob/main/action_cable.txt)
