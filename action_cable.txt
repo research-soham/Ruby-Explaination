@@ -1,0 +1,17 @@
+Action Cable is a feature of the Ruby on Rails web application framework that enables real-time communication between the client-side and server-side components of a web application. It allows for bidirectional communication between the client (typically a web browser) and the server over a single, persistent WebSocket connection.
+
+Action Cable is built on top of the WebSocket protocol, which provides full-duplex communication channels over a single TCP connection. This enables real-time updates, such as chat applications, notifications, live feeds, and collaborative editing, without the need for constant polling or refreshing of the web page.
+
+In Rails, Action Cable provides an easy-to-use API for implementing WebSocket-based features. It integrates seamlessly with the rest of the Rails stack, including ActiveRecord for database interaction and Action View for rendering views.
+
+Key components of Action Cable include:
+
+Channels: Channels are like controllers for WebSocket connections. They handle the incoming WebSocket requests and broadcast messages to subscribers.
+
+Subscriptions: Subscriptions represent a connection between the client and a specific channel. Clients subscribe to channels to receive updates and notifications.
+
+Streams: Streams allow messages to be broadcast to specific subsets of subscribers within a channel. This helps to organize and manage message distribution efficiently.
+
+Redis or ActiveSupport::Cache: Action Cable can use either Redis or ActiveSupport::Cache to manage the WebSocket connections and handle message broadcasting efficiently in a multi-server deployment scenario.
+
+Overall, Action Cable simplifies the development of real-time web applications in Rails by providing a convenient abstraction for handling WebSocket connections and managing real-time communication between clients and servers.
